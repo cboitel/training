@@ -220,8 +220,6 @@ Now let customize things a bit further:
     curl http://127.0.0.1/actuator/health
     # get info
     curl http://127.0.0.1/actuator/info
-    # httptrace
-    curl http://127.0.0.1/actuator/httptrace
     ``` 
 
 Now, have fun configuring logging, pid file generation following actuator documentation...
